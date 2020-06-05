@@ -1,6 +1,6 @@
-Задание 12
+Р—Р°РґР°РЅРёРµ в„–12
 
-1 зад
+Р—Р°РґР°РЅРёРµ в„–1
 
 import java.util.Scanner;
 
@@ -74,7 +74,7 @@ System.out.println(RomeString);
 }
 }
 
-2 зад
+Р—Р°РґР°РЅРёРµ в„–2
 
 public class Main {
 public static void main(String[] args) {
